@@ -20,4 +20,4 @@
 <li><strong>Instalacao</strong>: Colocar o sensor de humidade na terra do vaso, colocar a valvula solenoide para agua em uma torneira junta, uma ponta da mangueira vai na torneira e outra no vaso.</li>
 </ul>
 <p>&nbsp;</p>
-![sistema de irrigaçao](https://user-images.githubusercontent.com/53444454/62834442-c6b26200-bc22-11e9-815a-c6bf19397787.jpg)
+
